@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/repeta-practice-new-era/static/css/main.a617e044.chunk.css",
+    "main.js": "/repeta-practice-new-era/static/js/main.166b5258.chunk.js",
+    "main.js.map": "/repeta-practice-new-era/static/js/main.166b5258.chunk.js.map",
+    "runtime-main.js": "/repeta-practice-new-era/static/js/runtime-main.4a0222f5.js",
+    "runtime-main.js.map": "/repeta-practice-new-era/static/js/runtime-main.4a0222f5.js.map",
+    "static/js/2.98e3f883.chunk.js": "/repeta-practice-new-era/static/js/2.98e3f883.chunk.js",
+    "static/js/2.98e3f883.chunk.js.map": "/repeta-practice-new-era/static/js/2.98e3f883.chunk.js.map",
+    "static/js/3.e10c08b9.chunk.js": "/repeta-practice-new-era/static/js/3.e10c08b9.chunk.js",
+    "static/js/3.e10c08b9.chunk.js.map": "/repeta-practice-new-era/static/js/3.e10c08b9.chunk.js.map",
+    "index.html": "/repeta-practice-new-era/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/repeta-practice-new-era/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.98e3f883.chunk.js.LICENSE.txt": "/repeta-practice-new-era/static/js/2.98e3f883.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/repeta-practice-new-era/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a0222f5.js",
+    "static/js/2.98e3f883.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.166b5258.chunk.js"
+  ]
+}
