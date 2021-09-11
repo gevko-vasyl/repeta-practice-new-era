@@ -12,6 +12,7 @@ export const EventBoard = ({ events }) => {
           speaker={event.speaker}
           start={event.time.start}
           end={event.time.end}
+          type={event.type}
         />
       ))}
     </div>
