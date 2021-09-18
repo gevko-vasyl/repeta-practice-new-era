@@ -1,11 +1,13 @@
-import css from './EventInfo.module.css';
+// import css from './EventInfo.module.css';
+
+import { Info } from './EventInfo.styled';
 
 const EventInfo = ({ text, children }) => {
   return (
-    <p className={css.info}>
+    <Info>
       {children}
       {text}
-    </p>
+    </Info>
   );
 };
 
